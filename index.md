@@ -639,6 +639,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Jacob Kaplan-Moss (Django co-creator; Founder, Django Software Foundation)
 1. Jacob See (Red Hat)
 1. Jacob Weisz
+1. Jacqueline S. Ott
 1. Jade '0x0ade' Macho
 1. Jaden Pleasants
 1. Jake Harrison (@GloomyJD)
